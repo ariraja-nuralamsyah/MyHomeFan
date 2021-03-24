@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HomeFan</string>
+    <string name="switch_fan">LIGHTS</string>
+    <string name="btn_off">OFF</string>
+</resources>
